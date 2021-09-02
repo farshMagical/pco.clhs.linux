@@ -1,0 +1,182 @@
+99999 images grabbed in 66658ms lost images 818
+ freq: 1500.15Hz time/pic: 0.667ms  750.07MB/sec
+try No 1
+
+ 99999 images grabbed in 66350ms lost images 629
+ freq: 1507.11Hz time/pic: 0.664ms  753.56MB/sec
+try No 2
+
+ 99999 images grabbed in 66250ms lost images 531
+ freq: 1509.38Hz time/pic: 0.663ms  754.69MB/sec
+try No 3
+
+ 99999 images grabbed in 66538ms lost images 791
+ freq: 1502.87Hz time/pic: 0.665ms  751.43MB/sec
+try No 4
+
+ 99999 images grabbed in 65871ms lost images 171
+ freq: 1518.08Hz time/pic: 0.659ms  759.04MB/sec
+try No 5
+
+ 99999 images grabbed in 66042ms lost images 323
+ freq: 1514.14Hz time/pic: 0.660ms  757.07MB/sec
+try No 6
+
+ 99999 images grabbed in 66131ms lost images 410
+ freq: 1512.11Hz time/pic: 0.661ms  756.05MB/sec
+try No 7
+
+ 99999 images grabbed in 65830ms lost images 136
+ freq: 1519.02Hz time/pic: 0.658ms  759.51MB/sec
+try No 8
+
+ 99999 images grabbed in 66111ms lost images 360
+ freq: 1512.57Hz time/pic: 0.661ms  756.29MB/sec
+try No 9
+
+ 99999 images grabbed in 66565ms lost images 770
+ freq: 1502.24Hz time/pic: 0.666ms  751.12MB/sec
+try No 10
+
+ 99999 images grabbed in 66495ms lost images 701
+ freq: 1503.83Hz time/pic: 0.665ms  751.92MB/sec
+try No 11
+
+ 99999 images grabbed in 66503ms lost images 767
+ freq: 1503.65Hz time/pic: 0.665ms  751.83MB/sec
+try No 12
+
+ 99999 images grabbed in 65709ms lost images 18
+ freq: 1521.82Hz time/pic: 0.657ms  760.91MB/sec
+try No 13
+
+ 99999 images grabbed in 66754ms lost images 949
+ freq: 1498.00Hz time/pic: 0.668ms  749.00MB/sec
+try No 14
+
+ 99999 images grabbed in 66420ms lost images 667
+ freq: 1505.53Hz time/pic: 0.664ms  752.77MB/sec
+try No 15
+
+ 99999 images grabbed in 65996ms lost images 251
+ freq: 1515.21Hz time/pic: 0.660ms  757.60MB/sec
+try No 16
+
+ 99999 images grabbed in 66475ms lost images 749
+ freq: 1504.28Hz time/pic: 0.665ms  752.14MB/sec
+try No 17
+
+ 99999 images grabbed in 66434ms lost images 578
+ freq: 1505.21Hz time/pic: 0.664ms  752.60MB/sec
+try No 18
+
+ 99999 images grabbed in 65946ms lost images 222
+ freq: 1516.35Hz time/pic: 0.659ms  758.18MB/sec
+try No 19
+
+ 99999 images grabbed in 65950ms lost images 248
+ freq: 1516.25Hz time/pic: 0.660ms  758.12MB/sec
+try No 20
+
+ 99999 images grabbed in 65792ms lost images 87
+ freq: 1519.90Hz time/pic: 0.658ms  759.95MB/sec
+try No 21
+
+ 99999 images grabbed in 66015ms lost images 296
+ freq: 1514.76Hz time/pic: 0.660ms  757.38MB/sec
+try No 22
+
+ 99999 images grabbed in 66398ms lost images 659
+ freq: 1506.02Hz time/pic: 0.664ms  753.01MB/sec
+try No 23
+
+ 99999 images grabbed in 65867ms lost images 174
+ freq: 1518.17Hz time/pic: 0.659ms  759.09MB/sec
+try No 24
+
+ 99999 images grabbed in 65901ms lost images 191
+ freq: 1517.39Hz time/pic: 0.659ms  758.69MB/sec
+try No 25
+
+ 99999 images grabbed in 66288ms lost images 541
+ freq: 1508.54Hz time/pic: 0.663ms  754.27MB/sec
+try No 26
+
+ 99999 images grabbed in 65805ms lost images 107
+ freq: 1519.60Hz time/pic: 0.658ms  759.80MB/sec
+try No 27
+
+ 99999 images grabbed in 66678ms lost images 882
+ freq: 1499.70Hz time/pic: 0.667ms  749.85MB/sec
+try No 28
+
+ 99999 images grabbed in 66274ms lost images 548
+ freq: 1508.84Hz time/pic: 0.663ms  754.42MB/sec
+try No 29
+
+ 99999 images grabbed in 66100ms lost images 393
+ freq: 1512.81Hz time/pic: 0.661ms  756.41MB/sec
+try No 30
+
+ 99999 images grabbed in 65777ms lost images 75
+ freq: 1520.25Hz time/pic: 0.658ms  760.12MB/sec
+try No 31
+
+ 99999 images grabbed in 66208ms lost images 458
+ freq: 1510.35Hz time/pic: 0.662ms  755.18MB/sec
+try No 32
+
+ 99999 images grabbed in 66827ms lost images 991
+ freq: 1496.35Hz time/pic: 0.668ms  748.17MB/sec
+try No 33
+
+ 99999 images grabbed in 66445ms lost images 667
+ freq: 1504.97Hz time/pic: 0.664ms  752.48MB/sec
+try No 34
+
+ 99999 images grabbed in 65692ms lost images 0
+ freq: 1522.22Hz time/pic: 0.657ms  761.11MB/sec
+try No 35
+
+ 99999 images grabbed in 66134ms lost images 406
+ freq: 1512.05Hz time/pic: 0.661ms  756.02MB/sec
+try No 36
+
+ 99999 images grabbed in 65763ms lost images 65
+ freq: 1520.57Hz time/pic: 0.658ms  760.29MB/sec
+try No 37
+
+ 99999 images grabbed in 66019ms lost images 319
+ freq: 1514.68Hz time/pic: 0.660ms  757.34MB/sec
+try No 38
+
+ 99999 images grabbed in 65768ms lost images 71
+ freq: 1520.46Hz time/pic: 0.658ms  760.23MB/sec
+try No 39
+
+ 99999 images grabbed in 65822ms lost images 128
+ freq: 1519.22Hz time/pic: 0.658ms  759.61MB/sec
+try No 40
+
+ 99999 images grabbed in 66245ms lost images 512
+ freq: 1509.50Hz time/pic: 0.662ms  754.75MB/sec
+try No 41
+
+ 99999 images grabbed in 66379ms lost images 625
+ freq: 1506.47Hz time/pic: 0.664ms  753.23MB/sec
+try No 42
+
+ 99999 images grabbed in 66376ms lost images 650
+ freq: 1506.53Hz time/pic: 0.664ms  753.26MB/sec
+try No 43
+
+ 99999 images grabbed in 66703ms lost images 904
+ freq: 1499.15Hz time/pic: 0.667ms  749.58MB/sec
+try No 44
+
+ 99999 images grabbed in 66557ms lost images 785
+ freq: 1502.43Hz time/pic: 0.666ms  751.21MB/sec
+try No 45
+
+ 99999 images grabbed in 66601ms lost images 832
+ freq: 1501.45Hz time/pic: 0.666ms  750.72MB/sec
